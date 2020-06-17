@@ -668,7 +668,7 @@ footer nav {  }
 }
 
     
-      @media only screen and (max-width: 426px){
+      @media only screen and (max-width: 428px){
         header  {
 		width: 100%;
 		height: 90px;
@@ -753,8 +753,9 @@ footer nav {  }
     height: 530px;
     }
     main section#zona-infografia figure#vista-02 article div#caja-brochure nav a {
-	   width: 380px;
-    height: 240px;
+width: 109px;
+    height: 100px;
+
     }
         
         
